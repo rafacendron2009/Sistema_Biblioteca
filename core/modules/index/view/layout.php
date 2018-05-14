@@ -83,8 +83,9 @@ if(Session::getUID()!=""){
   $user = $u->name." ".$u->lastname;
 
   }?>
-          
-
+          <ul class="nav navbar-nav navbar-right navbar-user">
+            
+        
             <li class="dropdown user-dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
         <?php echo $user; ?> <b class="caret"></b>
