@@ -23,7 +23,7 @@
 
 			<table class="table table-bordered table-hover">
 			<thead>
-			<th>Nombre completo</th>
+			<th>Nome completo</th>
 			<th>Endereco</th>
 			<th>Email</th>
 			<th>Telefone</th>
